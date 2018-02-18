@@ -1,4 +1,8 @@
-# TH3_S0URCE
+#  _____   _  _   ____        ___    __    _   _   ___    ___   ____
+# |_   _| | || | |__ /       / __|  /  \  | | | | | _ \  / __| |__ / 
+#   | |   | __ |  |_ \       \__ \ | () | | |_| | |   / | (__   |_ \  
+ #  |_|   |_||_| |___/  ___  |___/  \__/   \___/  |_|_\  \___| |___/ 
+  #                    |___|                                         
 Python text-based game. WIP. A beginner Python project, I'm still new to this whole "coding" business.
 ## Installation instructions
 ### Windows
