@@ -1,3 +1,9 @@
+print ("   |-|      |           ---_     |     |   |---\     ----|----")
+print ("  |   |     |               |    |     |   |     |       |    ")
+print (" |-----|    |           ___|       .O.     |____ /       |    ")
+print (" |     |    |               |    |     |   |             |    ")
+print (" |     |    |_______    ___|     |     |   |         ____|____")
+
 username = input("What is your name?")
 print ("Welcome", username, " you are a hero in the Py_tH0n dimension.")
 print ("You are the main VAR1ABL3. You must defeat all ERR0RS and D3BUG this dimension, and maybe, the Un1v3rs3.")
