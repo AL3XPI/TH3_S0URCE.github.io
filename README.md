@@ -1,6 +1,4 @@
-<p>▀▀█▀▀ █░░█ █▀▀█ █▀▀ █▀▀█ █░░█ █▀▀█ █▀▀ █▀▀█<p>
-<p>░░█░░ █▀▀█ ░░▀▄ ▀▀█ █▄▀█ █░░█ █▄▄▀ █░░ ░░▀▄<p>
-<p>░░▀░░ ▀░░▀ █▄▄█ ▀▀▀ █▄▄█ ░▀▀▀ ▀░▀▀ ▀▀▀ █▄▄█<p>
+# TH3 S0URCE
 Python text-based game. WIP. A beginner Python project, I'm still new to this whole "coding" business.
 ## Installation instructions
 ### Windows
