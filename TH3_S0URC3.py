@@ -8,11 +8,6 @@ print ("Welcome", username, " you are a hero in the Py_tH0n dimension.")
 print ("You are the main VAR1ABL3. You must defeat all ERR0RS and D3BUG this dimension, and maybe, the Un1v3rs3.")
 print ("To do all that stuff I mentioned before, we must get you geared up,", username,".")
 
-username = input("What is your name?")
-print ("Welcome", username, " you are a hero in the Py_tH0n dimension.")
-print ("You are the main VAR1ABL3. You must defeat all ERR0RS and D3BUG this dimension, and maybe, the Un1v3rs3.")
-print ("To do all that stuff I mentioned before, we must get you geared up,", username,".")
-
 weapons = {'Axe': 5, 'Sword': 10, 'Brass Knuckles': 8 }
 armor = {'Chain': 8, 'Diamond': 12, 'Gold': 10 }
 User_stats = []
@@ -38,4 +33,6 @@ else:
     exit()
 
 print ("ALERT: YOU HAVE FOUND A HTTPS ENCRYPTION TUNNEL.")
-print ("Be careful around these things,", username, ", they encrypt your data and you might be passed through safely, but there are always hackers out there who have decryption tools.")
+print ("Be careful around these things,", username, ", they encrypt your data and you might be passed through safely, but there are always hackers out there who have decryption tools. It looks like the tunnel is the only way out.")
+print ("Let'sa go matey! Woah, since when did I start speaking pirate? Never mind that, let's go me lad!")
+
